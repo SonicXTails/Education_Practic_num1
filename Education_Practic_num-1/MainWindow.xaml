@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Education_Practic_num_1"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#FF2F2F2F">
+        Title="Просмотр данных базы данных" Height="450" Width="800" Background="#FF2F2F2F">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
@@ -35,7 +35,7 @@
                 Grid.Column="1" Background="#FF565656"
                 Content="Посмотреть через 'DataSet'"
                 FontFamily="Arial"
-                FontSize="15" Click="DataSet_Click"/>
+                FontSize="15" Click="DataSet_Click" BorderBrush="Red"/>
 
         <Button x:Name="EF"
                 Grid.Row="4" Grid.ColumnSpan="2"

@@ -13,10 +13,10 @@ namespace Education_Practic_num_1
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Information_System_Of_MarketEntities : DbContext
+    public partial class Information_System_Of_MarketEntitie : DbContext
     {
-        public Information_System_Of_MarketEntities()
-            : base("name=Information_System_Of_MarketEntities")
+        public Information_System_Of_MarketEntitie()
+            : base("name=Information_System_Of_MarketEntitie")
         {
         }
     
@@ -27,5 +27,8 @@ namespace Education_Practic_num_1
     
         public virtual DbSet<Products> Products { get; set; }
         public virtual DbSet<Stock> Stock { get; set; }
+        public virtual DbSet<StockView> StockView { get; set; }
+        public virtual DbSet<Вид_Продукты> Вид_Продукты { get; set; }
+        public virtual DbSet<Вид_Склад> Вид_Склад { get; set; }
     }
 }

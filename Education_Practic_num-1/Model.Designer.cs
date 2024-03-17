@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "D:\Lessons\Ed.Practic\Education_Practic_num-1\Education_Practic_num-1\Model1.edmx" включено. 
+﻿// Создание кода T4 для модели "C:\Users\SonicXTails\Desktop\Education_Practic_num-1\Education_Practic_num-1\Model.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.

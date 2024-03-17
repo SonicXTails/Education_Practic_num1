@@ -27,17 +27,11 @@ namespace Education_Practic_num_1
         private void DataSet_Click(object sender, RoutedEventArgs e)
         {
             PageFrame.Content = new DataSet_Page();
-
-            DataSet.Visibility = Visibility.Hidden;
-            EF.Visibility = Visibility.Hidden;
         }
 
         private void EF_Click(object sender, RoutedEventArgs e)
         {
             PageFrame.Content = new EF_Page();
-
-            DataSet.Visibility = Visibility.Hidden;
-            EF.Visibility = Visibility.Hidden;
         }
     }
 }

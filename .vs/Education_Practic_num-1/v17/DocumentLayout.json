@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\education_practic_num-1\\ef_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|solutionrelative:education_practic_num-1\\ef_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|c:\\users\\sonicxtails\\desktop\\education_practic_num-1\\education_practic_num-1\\ef_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|solutionrelative:education_practic_num-1\\ef_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|c:\\users\\sonicxtails\\desktop\\education_practic_num-1\\education_practic_num-1\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|solutionrelative:education_practic_num-1\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\education_practic_num-1\\dataset_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|solutionrelative:education_practic_num-1\\dataset_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|c:\\users\\sonicxtails\\desktop\\education_practic_num-1\\education_practic_num-1\\information_system_of_marketdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D80CDE-9177-4E60-9F31-9980C63E7CA6}|Education_Practic_num-1\\Education_Practic_num-1.csproj|solutionrelative:education_practic_num-1\\information_system_of_marketdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Information_System_Of_MarketDataSet.cs",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\Information_System_Of_MarketDataSet.cs",
+              "RelativeDocumentMoniker": "Education_Practic_num-1\\Information_System_Of_MarketDataSet.cs",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\Information_System_Of_MarketDataSet.cs",
+              "RelativeToolTip": "Education_Practic_num-1\\Information_System_Of_MarketDataSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:11:45.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\Model.edmx",
+              "RelativeDocumentMoniker": "Education_Practic_num-1\\Model.edmx",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "Education_Practic_num-1\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-03-17T15:10:44.204Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSet_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\DataSet_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Education_Practic_num-1\\DataSet_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\DataSet_Page.xaml.cs",
+              "RelativeToolTip": "Education_Practic_num-1\\DataSet_Page.xaml.cs",
+              "ViewState": "AQIAAJwBAAAAAAAAAAAQwO0AAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:58:47.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EF_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\EF_Page.xaml",
+              "RelativeDocumentMoniker": "Education_Practic_num-1\\EF_Page.xaml",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\EF_Page.xaml",
+              "RelativeToolTip": "Education_Practic_num-1\\EF_Page.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-17T14:59:33.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EF_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\EF_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Education_Practic_num-1\\EF_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\SonicXTails\\Desktop\\Education_Practic_num-1\\Education_Practic_num-1\\EF_Page.xaml.cs",
+              "RelativeToolTip": "Education_Practic_num-1\\EF_Page.xaml.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:59:33.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
